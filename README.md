@@ -22,13 +22,17 @@
 
 ## 6 - Truffle
 
-  Truffle v4.1.14 (core: 4.1.14) - development enviroment, testing framework for blockchains using EVM
+  Truffle v4.1.14 (core: 4.1.14) - development environment, testing framework for blockchains using EVM
 
 ## 7 - Solidity
 
-  Solidity v0.4.24 (solc-js) - Object-oriented programing language used by Etherium. For construct and testing smart contracts on blockchain.
+  Solidity v0.4.24 (solc-js) - Object-oriented programing language used by Ethereum. For construct and testing smart contracts on blockchain.
 
-## 8 - Node
+## 8 - Web3
+
+  web3 1.2.1 - JS library to interact with an Ethereum node, remote or locally.
+
+## 9 - Node
 
   Node 12.16.3
 
