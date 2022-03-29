@@ -22,11 +22,11 @@
 
 ## 6 - Truffle
 
-  Truffle v4.1.14 (core: 4.1.14)
+  Truffle v4.1.14 (core: 4.1.14) - development enviroment, testing framework for blockchains using EVM
 
 ## 7 - Solidity
 
-  Solidity v0.4.24 (solc-js)
+  Solidity v0.4.24 (solc-js) - Object-oriented programing language used by Etherium. For construct and testing smart contracts on blockchain.
 
 ## 8 - Node
 
@@ -36,4 +36,4 @@
 
 ## Deployed to Rinkeby
 
- https://rinkeby.etherscan.io/address/0xd38becda2574b1f35a0c9c1ccfde75c29568d6cf
+https://rinkeby.etherscan.io/address/0x5cef9a23de9abb4acdb18fea4f909f206ecb90c5
